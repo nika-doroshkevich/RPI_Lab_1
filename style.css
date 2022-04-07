@@ -285,16 +285,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-.container {
-	width: 100%;
-	max-width: 1600px;
-
-}
-
+/*nika-doroshkevich (part 1 start)*/
 .section {
 	padding: 95px 0 65px 0;
-
+	width: 100%;
+	max-width: 1600px;
 }
 
 .section__header {
@@ -345,14 +340,14 @@ margin-top: 35px;
 .item5{
 	padding-left: 65px;
 	display: flex;
-margin-top: 30px;
+	margin-top: 30px;
 }
 
 
 .main {
 	width: 100%;
 	max-width: 1400px;
-	margin: 0 auto 0;
+	margin: 0;
 	
 	display: flex;
 }
@@ -365,7 +360,7 @@ margin-top: 30px;
 .main__item {
 	width: 50%;
 	margin-top: 155px;
-	margin-left:25px ;
+	margin-left: 25px ;
 }
 
 .main__header {
@@ -432,17 +427,15 @@ margin-top: 30px;
 	color: #40975f;
 	margin: 35px auto auto 30px;
 }
+/*nika-doroshkevich (part 1 final)*/
 
-/*Part 2*/
-.container2 {
-
-	width: 1600px;
-	margin: 0 auto;
-}
-
+/*Part 3*/
+/*nika-doroshkevich (part 2 start)*/
 .section2 {
 	padding-top: 105px;
 	width: 1600px;
+	width: 1600px;
+	margin: 0;
 }
 
 .main2 {
@@ -473,14 +466,14 @@ margin-top: 30px;
 	font-weight: 700;
 	color: #242f51;
 	margin-top: 30px;
-	margin-left:55px ;
+	margin-left: 55px ;
 }
 .mainPart__tHeader1 {
 	font-size: 13px;
 	font-weight: 700;
 	color: #242f51;
 	margin-top: 30px;
-	margin-left:5px ;
+	margin-left: 5px ;
 }
 
 .mainPart
@@ -500,7 +493,6 @@ margin-top: 30px;
 }
 .mainPart__img1 {
 	padding-top: 50px;
-
 }
 .mainPart__img2 {
 	padding-top: 50px;
@@ -552,12 +544,15 @@ margin-top: 30px;
 .See_button:hover {
 	background-color: #2a1a88;
 }
+/*nika-doroshkevich (part 2 final)*/
+
+
 .main-content-top{
 
 	display: flex;
 	width: 1300px;
 	height: 150px;
-	padding: 200px 0;
+	padding: 0 0 200px;
 }
 .content-left-text{
 	font-size: 40px;
