@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f56bc98-6020-4f90-8043-3331e362184c" name="Changes" comment="" />
+    <list default="true" id="815d0ae6-37a6-4a49-8d6a-d9b7318ae7f1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,17 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/4 сем/КСиС/KSIS_lab1" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -21,27 +32,44 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27Ssx4HT2nHUSQvhQ7XhgnUl1Yn" />
+  <component name="ProjectId" id="26CeGzTrSYqjqCl4y0GX7H0ChXu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f56bc98-6020-4f90-8043-3331e362184c" name="Changes" comment="" />
-      <created>1649325068655</created>
+      <changelist id="815d0ae6-37a6-4a49-8d6a-d9b7318ae7f1" name="Changes" comment="" />
+      <created>1646931904459</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1649325068655</updated>
-      <workItem from="1649325072619" duration="2936000" />
+      <updated>1646931904459</updated>
+      <workItem from="1646931906764" duration="7427000" />
+      <workItem from="1646939944399" duration="476000" />
+      <workItem from="1646994387824" duration="38000" />
+      <workItem from="1647017178056" duration="1477000" />
+      <workItem from="1647083720550" duration="17000" />
+      <workItem from="1647086136336" duration="4632000" />
+      <workItem from="1647103285553" duration="1419000" />
+      <workItem from="1647427730916" duration="13732000" />
+      <workItem from="1647443501606" duration="533000" />
+      <workItem from="1647444654321" duration="804000" />
+      <workItem from="1647510826476" duration="6117000" />
+      <workItem from="1647518244567" duration="1157000" />
+      <workItem from="1647522288489" duration="31000" />
+      <workItem from="1648285320747" duration="7800000" />
+      <workItem from="1648310103871" duration="16859000" />
     </task>
     <servers />
   </component>

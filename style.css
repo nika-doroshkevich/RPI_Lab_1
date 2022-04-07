@@ -599,8 +599,6 @@ margin-top: 30px;
 .content-icons-nav{
 	display: flex;
 }
-
-
 .red-circle{
 	border-radius: 50%;
 	background-color: rgb(255, 236, 239);
@@ -744,18 +742,20 @@ margin-top: 30px;
 	min-height: 525px;
 }
 
-
+.inner-button{
+	min-height: 50px;
+	padding-left: 5px;
+}
 .sidebar-right-button{
 	background-color: rgb(37, 0, 249);
 	width: 170px;
 	height: 60px;
 	color:white;
 	border-radius: 35px;
-
+	text-align: center;
 	margin-top: 50px;
 	display: inline-block;
 	box-sizing: border-box;
-
 	
 }
 .text-button{
@@ -770,11 +770,10 @@ margin-top: 30px;
 .sidebar-right-button :hover{
 	background-color: #2a1a88;    
 	border-radius: 35px;
-	width: 180px;
+	width: 170px;
 	height: 60px;
-
-
-
+	display: inline-block;
+	box-sizing: border-box;
 }
 * {
 	font-family: "Poppins";
