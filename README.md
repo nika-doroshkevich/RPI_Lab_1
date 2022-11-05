@@ -4,7 +4,7 @@
 
 It was a teamwork, so it was a good opportunity to gain experience in communication and interaction with team members (our team consisted of 4 people).
 
-What did we use?
+What did we use :question:
 
 :computer: __HTML__ and __CSS__
 
